@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+
+}
+ul {
+    background-color: burlywood;
+    font-style: italic;
+}
+h1 {
+    color: red;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
